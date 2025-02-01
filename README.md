@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone.....&hearts;++;I+Am+Autodidact+Data+Analyst,;+Msc+in+Computer+Information+System,;Live+in+Latvia+Europe,;Active+Learner/Researcher,;Love+to+learn+new+stuffs...<3">
 </a>
 
-<p align="center"><strong>A curious problem-solver with expertise in data analysis, machine learning, and BI tools to drive data-driven decisions & Data Science AI Enthusiast.</strong></p>
+<p align="center"><strong>A curious problem-solver with expertise in Business Data Analysis, Machine learning, and BI tools to drive data-driven decisions & Data Science AI Enthusiast.</strong></p>
 
 <!-- GIF at the top center -->
 <p align="center">
